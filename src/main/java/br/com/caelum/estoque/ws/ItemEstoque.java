@@ -1,6 +1,5 @@
 package br.com.caelum.estoque.ws;
 
-
 public class ItemEstoque {
 
 	private String codigo;
